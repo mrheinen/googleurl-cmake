@@ -29,9 +29,9 @@
 // Canonicalization functions for the paths of URLs.
 
 #include "base/logging.h"
-#include "googleurl/src/url_canon.h"
-#include "googleurl/src/url_canon_internal.h"
-#include "googleurl/src/url_parse_internal.h"
+#include "src/url_canon.h"
+#include "src/url_canon_internal.h"
+#include "src/url_parse_internal.h"
 
 namespace url_canon {
 

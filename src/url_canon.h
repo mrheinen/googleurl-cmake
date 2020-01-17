@@ -33,8 +33,8 @@
 #include <stdlib.h>
 
 #include "base/string16.h"
-#include "googleurl/src/url_common.h"
-#include "googleurl/src/url_parse.h"
+#include "src/url_common.h"
+#include "src/url_parse.h"
 
 namespace url_canon {
 

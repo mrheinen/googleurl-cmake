@@ -36,11 +36,11 @@
 #include <algorithm>
 #include <ostream>
 
-#include "googleurl/src/gurl.h"
+#include "src/gurl.h"
 
 #include "base/logging.h"
-#include "googleurl/src/url_canon_stdstring.h"
-#include "googleurl/src/url_util.h"
+#include "src/url_canon_stdstring.h"
+#include "src/url_util.h"
 
 namespace {
 

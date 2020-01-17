@@ -35,8 +35,8 @@
 #include <unicode/ucnv_cb.h>
 #include <unicode/uidna.h>
 
-#include "googleurl/src/url_canon_icu.h"
-#include "googleurl/src/url_canon_internal.h"  // for _itoa_s
+#include "src/url_canon_icu.h"
+#include "src/url_canon_internal.h"  // for _itoa_s
 
 #include "base/logging.h"
 

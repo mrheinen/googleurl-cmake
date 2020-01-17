@@ -33,9 +33,9 @@
 #include <string>
 
 #include "base/string16.h"
-#include "googleurl/src/url_common.h"
-#include "googleurl/src/url_parse.h"
-#include "googleurl/src/url_canon.h"
+#include "src/url_common.h"
+#include "src/url_parse.h"
+#include "src/url_canon.h"
 
 namespace url_util {
 

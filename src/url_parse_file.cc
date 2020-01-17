@@ -28,9 +28,9 @@
 // OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 #include "base/logging.h"
-#include "googleurl/src/url_file.h"
-#include "googleurl/src/url_parse.h"
-#include "googleurl/src/url_parse_internal.h"
+#include "src/url_file.h"
+#include "src/url_parse.h"
+#include "src/url_parse_internal.h"
 
 // Interesting IE file:isms...
 //

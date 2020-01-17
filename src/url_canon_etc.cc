@@ -31,8 +31,8 @@
 
 #include <string.h>
 
-#include "googleurl/src/url_canon.h"
-#include "googleurl/src/url_canon_internal.h"
+#include "src/url_canon.h"
+#include "src/url_canon_internal.h"
 
 namespace url_canon {
 
