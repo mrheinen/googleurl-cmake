@@ -2,7 +2,7 @@
 
 #include "base/logging.h"
 #include "base/string16.h"
-#include "googleurl/src/url_canon.h"
+#include "src/url_canon.h"
 
 namespace url_canon
 {
